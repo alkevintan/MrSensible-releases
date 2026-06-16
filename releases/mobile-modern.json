@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 4,
-  "versionName": "0.2.2",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.2.2/mrsensible-mobile-modern-4.apk",
-  "sizeBytes": 52607828,
-  "sha256": "96e4191a61e143075d4f701311f750ec1bf12403fcbaaf5c21dad2fcbbbcdf33",
-  "notes": "Update checks now hosted on GitHub (no Firebase); loop + TLS fixes.",
+  "latestVersionCode": 5,
+  "versionName": "0.2.3",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.2.3/mrsensible-mobile-modern-5.apk",
+  "sizeBytes": 52607811,
+  "sha256": "e8e6b9130cc5bd4b4193822f220d006e81f996edc18dd7ea48249022dc37a581",
+  "notes": "Fix version display + update-check (runtime version, not stale inlined BuildConfig).",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781626334020
+  "publishedAt": 1781627041686
 }
