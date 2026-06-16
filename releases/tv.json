@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 4,
-  "versionName": "0.2.2",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.2.2/mrsensible-tv-4.apk",
-  "sizeBytes": 54759385,
-  "sha256": "3b6a56b020246478efb5e0b17b60255f953b8782b2892da75b88692f71376fcc",
-  "notes": "Update checks now hosted on GitHub (no Firebase); loop + TLS fixes.",
+  "latestVersionCode": 5,
+  "versionName": "0.2.3",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.2.3/mrsensible-tv-5.apk",
+  "sizeBytes": 54760145,
+  "sha256": "ff4fed469edc02b0ae94d0e073ff2b20ffcbaaab1368001029e721a8cac06ce9",
+  "notes": "Fix version display + update-check (runtime version, not stale inlined BuildConfig).",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781626350040
+  "publishedAt": 1781627058543
 }
