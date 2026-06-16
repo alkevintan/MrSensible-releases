@@ -1,0 +1,10 @@
+{
+  "latestVersionCode": 4,
+  "versionName": "0.2.2",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.2.2/mrsensible-mobile-legacy-4.apk",
+  "sizeBytes": 45862615,
+  "sha256": "70120f40bcea36a040c2918397ee8ca1d603c9114d2a87ba19e968e7ad0a3150",
+  "notes": "Update checks now hosted on GitHub (no Firebase); loop + TLS fixes.",
+  "minSupportedVersionCode": 0,
+  "publishedAt": 1781626341609
+}
