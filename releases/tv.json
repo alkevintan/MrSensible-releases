@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 7,
-  "versionName": "0.3.1",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.3.1/mrsensible-tv-7.apk",
-  "sizeBytes": 28500113,
-  "sha256": "6e16596f7c04fe9170f450892c8299b52be4a301eaab537b567a395fd306120c",
-  "notes": "Subtitle support + old-Android TLS playback fix.",
+  "latestVersionCode": 8,
+  "versionName": "0.4.0",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.4.0/mrsensible-tv-8.apk",
+  "sizeBytes": 28537271,
+  "sha256": "e600898b39ab23ffea6f9a27a2ca3c5e4a919a1bdefaa0b516fe0304842d3182",
+  "notes": "Browse by actor & studio, native trailers, and a fix for the update prompt not responding to the remote.",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781705672000
+  "publishedAt": 1781710156412
 }
