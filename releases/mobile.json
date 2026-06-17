@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 11,
-  "versionName": "0.6.1",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.6.1/mrsensible-mobile-11.apk",
-  "sizeBytes": 35911348,
-  "sha256": "5ced7bcac64c4c3ee5415aeb930c88991efbad0fa1ce3fbe778f6bb14151f3f8",
-  "notes": "Maintenance release; no mobile-facing changes.",
+  "latestVersionCode": 12,
+  "versionName": "0.6.2",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.6.2/mrsensible-mobile-12.apk",
+  "sizeBytes": 35913393,
+  "sha256": "b388225ae68fc0d380c5f2258f4628b7c8d1f27e4059646f46f5ae6bd5026147",
+  "notes": "The Profile tab now shows the active profile's avatar instead of a generic icon.",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781738735592
+  "publishedAt": 1781739222769
 }
