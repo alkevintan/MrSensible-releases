@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 6,
-  "versionName": "0.3.0",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.3.0/mrsensible-mobile-6.apk",
-  "sizeBytes": 35866440,
-  "sha256": "8b33c97a51fa288ef1e5a4905533077c81d7f0597f99d9daaa8ad968025dda3d",
-  "notes": "Switch to HTTP/HLS streaming (no more BitTorrent). Single phone build; downloads removed; old-Android TLS fix.",
+  "latestVersionCode": 7,
+  "versionName": "0.3.1",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.3.1/mrsensible-mobile-7.apk",
+  "sizeBytes": 35875970,
+  "sha256": "4020122d86b397cf97b2717fbda3800bb4aa5822e6b8cdc3a08ee4287a640663",
+  "notes": "Subtitle support + old-Android TLS playback fix.",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781701955000
+  "publishedAt": 1781705672000
 }
