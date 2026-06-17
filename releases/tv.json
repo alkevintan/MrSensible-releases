@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 9,
-  "versionName": "0.5.0",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.5.0/mrsensible-tv-9.apk",
-  "sizeBytes": 35541025,
-  "sha256": "2ec60aeadd06900bb5c2aef4aaabd3fbceea141bee4f3dfa84a17f382dd9b40c",
-  "notes": "Profile avatars, seasonal Home rows (Halloween & Christmas), a Surprise random-movie tab on TV, and a 'This Month, Years Ago' row of notable past releases.",
+  "latestVersionCode": 10,
+  "versionName": "0.6.0",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.6.0/mrsensible-tv-10.apk",
+  "sizeBytes": 35562330,
+  "sha256": "ff53f5e3edd3d70453832fa58645cd630d1443279bf46037ab8b0dac7478ed68",
+  "notes": "TV: trailers for upcoming same-genre movies now play before a movie starts, with a Skip / + My List overlay that auto-hides. Configurable in Settings (on by default, 1-5 trailers).",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781713022790
+  "publishedAt": 1781736794954
 }
