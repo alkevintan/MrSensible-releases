@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 9,
-  "versionName": "0.5.0",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.5.0/mrsensible-mobile-9.apk",
-  "sizeBytes": 35906247,
-  "sha256": "e365ffcf7207544cc06bd6d51f347a3a205a5d24eff567f296d83fb85d41325f",
-  "notes": "Profile avatars, seasonal Home rows (Halloween & Christmas), a Surprise random-movie tab on TV, and a 'This Month, Years Ago' row of notable past releases.",
+  "latestVersionCode": 10,
+  "versionName": "0.6.0",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.6.0/mrsensible-mobile-10.apk",
+  "sizeBytes": 35911349,
+  "sha256": "d0c206c93cfb2616263a18ec6c12691e490172cc2672afae2a697f43a114d3ba",
+  "notes": "Maintenance release; no mobile-facing changes (the trailer pre-roll is TV-only).",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781712990618
+  "publishedAt": 1781736807151
 }
