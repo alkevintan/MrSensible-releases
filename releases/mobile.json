@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 10,
-  "versionName": "0.6.0",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.6.0/mrsensible-mobile-10.apk",
-  "sizeBytes": 35911349,
-  "sha256": "d0c206c93cfb2616263a18ec6c12691e490172cc2672afae2a697f43a114d3ba",
-  "notes": "Maintenance release; no mobile-facing changes (the trailer pre-roll is TV-only).",
+  "latestVersionCode": 11,
+  "versionName": "0.6.1",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.6.1/mrsensible-mobile-11.apk",
+  "sizeBytes": 35911348,
+  "sha256": "5ced7bcac64c4c3ee5415aeb930c88991efbad0fa1ce3fbe778f6bb14151f3f8",
+  "notes": "Maintenance release; no mobile-facing changes.",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781736807151
+  "publishedAt": 1781738735592
 }
