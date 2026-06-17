@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 8,
-  "versionName": "0.4.0",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.4.0/mrsensible-mobile-8.apk",
-  "sizeBytes": 35898607,
-  "sha256": "447be8a1b08f3eeadfbdae50dcf8b7dcf4a814b2ea412a0806d56150b6009074",
-  "notes": "Browse movies by actor & studio, and native in-app trailers.",
+  "latestVersionCode": 9,
+  "versionName": "0.5.0",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.5.0/mrsensible-mobile-9.apk",
+  "sizeBytes": 35906247,
+  "sha256": "e365ffcf7207544cc06bd6d51f347a3a205a5d24eff567f296d83fb85d41325f",
+  "notes": "Profile avatars, seasonal Home rows (Halloween & Christmas), a Surprise random-movie tab on TV, and a 'This Month, Years Ago' row of notable past releases.",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781710133969
+  "publishedAt": 1781712990618
 }
