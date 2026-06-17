@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 7,
-  "versionName": "0.3.1",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.3.1/mrsensible-mobile-7.apk",
-  "sizeBytes": 35875970,
-  "sha256": "4020122d86b397cf97b2717fbda3800bb4aa5822e6b8cdc3a08ee4287a640663",
-  "notes": "Subtitle support + old-Android TLS playback fix.",
+  "latestVersionCode": 8,
+  "versionName": "0.4.0",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.4.0/mrsensible-mobile-8.apk",
+  "sizeBytes": 35898607,
+  "sha256": "447be8a1b08f3eeadfbdae50dcf8b7dcf4a814b2ea412a0806d56150b6009074",
+  "notes": "Browse movies by actor & studio, and native in-app trailers.",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781705672000
+  "publishedAt": 1781710133969
 }
