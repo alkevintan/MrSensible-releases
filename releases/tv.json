@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 11,
-  "versionName": "0.6.1",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.6.1/mrsensible-tv-11.apk",
-  "sizeBytes": 35562291,
-  "sha256": "e3177ef4e0b45e21c494e50b4e90e693d5d41ed3140273811ef7e261daee38f3",
-  "notes": "TV: the profile selector now shows each profile's avatar (matching the in-app profile list).",
+  "latestVersionCode": 12,
+  "versionName": "0.6.2",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.6.2/mrsensible-tv-12.apk",
+  "sizeBytes": 35567067,
+  "sha256": "cbf381d5853f13258248454ae9a5a2b9fde1872daa452e881702f196d30df052",
+  "notes": "The profile entry in the navigation now shows the active profile's avatar instead of a generic icon (TV nav rail and mobile bottom bar).",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781738728778
+  "publishedAt": 1781739214186
 }
