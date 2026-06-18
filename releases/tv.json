@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 12,
-  "versionName": "0.6.2",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.6.2/mrsensible-tv-12.apk",
-  "sizeBytes": 35567067,
-  "sha256": "cbf381d5853f13258248454ae9a5a2b9fde1872daa452e881702f196d30df052",
-  "notes": "The profile entry in the navigation now shows the active profile's avatar instead of a generic icon (TV nav rail and mobile bottom bar).",
+  "latestVersionCode": 13,
+  "versionName": "0.7.0",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.7.0/mrsensible-tv-13.apk",
+  "sizeBytes": 35613275,
+  "sha256": "5edbba17a22b520d33f7ca483cc3ad0063e6aafec2eaf096e3bb4c28ecc35632",
+  "notes": "Shows now open on the season you're watching, with faster detail loading. New: top-right clock and profile-screen date (toggle in Profile), time-aware greeting, and your last profile is pre-selected. Surprise spans all eras; 'coming soon' trailers look 6 months ahead. New Filipino Films row. Fixes the blank show detail and the update check on older boxes.",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781739214186
+  "publishedAt": 1781792987139
 }
