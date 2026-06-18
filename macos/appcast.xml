@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>MrSensible (macOS)</title>
+    <item>
+      <title>0.1.0</title>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[ <ul><li>First macOS release — native Apple Silicon.</li></ul> ]]></description>
+      <enclosure
+        url="https://github.com/alkevintan/MrSensible-releases/releases/download/macos-v0.1.0/MrSensible-0.1.0.dmg"
+        type="application/octet-stream"
+        sparkle:edSignature="2OH7maLQKaF1w2QyLsGYOly3AOdqzFI3ynxPh55MO5Av3VPK18D5wCgfMU0MeYsybgmYSpQEB8Vg0SF7BYl9Ag=="
+        length="24842777" />
+    </item>
+  </channel>
+</rss>
