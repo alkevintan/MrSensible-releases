@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 12,
-  "versionName": "0.6.2",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.6.2/mrsensible-mobile-12.apk",
-  "sizeBytes": 35913393,
-  "sha256": "b388225ae68fc0d380c5f2258f4628b7c8d1f27e4059646f46f5ae6bd5026147",
-  "notes": "The Profile tab now shows the active profile's avatar instead of a generic icon.",
+  "latestVersionCode": 13,
+  "versionName": "0.7.0",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.7.0/mrsensible-mobile-13.apk",
+  "sizeBytes": 35942729,
+  "sha256": "0f4338cc00636464e59af7a5a6ae10b548ad988e7c3f5eb33a7cabf4cfe92f1f",
+  "notes": "New Filipino Films catalog, broader 'Surprise' movie picks across all eras, and reliability fixes.",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781739222769
+  "publishedAt": 1781792993886
 }
