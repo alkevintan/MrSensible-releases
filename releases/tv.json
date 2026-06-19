@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 16,
-  "versionName": "0.8.2",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.8.2/mrsensible-tv-16.apk",
-  "sizeBytes": 35940764,
-  "sha256": "e272523f8088b199ef5b296d478e8804d62085bb8f452bfca5fc88a007f35f31",
-  "notes": "PinoyMoviesHub: sources under 10 minutes (trailers) are now skipped so the resolver tries the next mirror instead of playing a preview clip",
+  "latestVersionCode": 17,
+  "versionName": "0.8.3",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.8.3/mrsensible-tv-17.apk",
+  "sizeBytes": 35940992,
+  "sha256": "988c28fb8fb749429f36d136b8a86a09d3b0eef803d8a11d41a760f615053072",
+  "notes": "Hero banner is now New on Streaming: recently-released movies and shows on subscription services, interleaved. Trakt trending is still used for the rows below.",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781876185729
+  "publishedAt": 1781876689445
 }
