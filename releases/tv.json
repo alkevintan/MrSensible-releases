@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 13,
-  "versionName": "0.7.0",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.7.0/mrsensible-tv-13.apk",
-  "sizeBytes": 35613275,
-  "sha256": "5edbba17a22b520d33f7ca483cc3ad0063e6aafec2eaf096e3bb4c28ecc35632",
-  "notes": "Shows now open on the season you're watching, with faster detail loading. New: top-right clock and profile-screen date (toggle in Profile), time-aware greeting, and your last profile is pre-selected. Surprise spans all eras; 'coming soon' trailers look 6 months ahead. New Filipino Films row. Fixes the blank show detail and the update check on older boxes.",
+  "latestVersionCode": 14,
+  "versionName": "0.8.0",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.8.0/mrsensible-tv-14.apk",
+  "sizeBytes": 35939947,
+  "sha256": "0357793aee8306e56471d3d82996bd8cfc1867cc4e43a0e60a9555b9212fe5f6",
+  "notes": "Avatar selection, list reordering, Filipino Movies/Shows rows, DoodStream streams, anticipated hero banner, and fix: movies now resume from where you stopped",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781792987139
+  "publishedAt": 1781874789862
 }
