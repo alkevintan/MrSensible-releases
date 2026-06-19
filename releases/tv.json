@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 14,
-  "versionName": "0.8.0",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.8.0/mrsensible-tv-14.apk",
-  "sizeBytes": 35939947,
-  "sha256": "0357793aee8306e56471d3d82996bd8cfc1867cc4e43a0e60a9555b9212fe5f6",
-  "notes": "Avatar selection, list reordering, Filipino Movies/Shows rows, DoodStream streams, anticipated hero banner, and fix: movies now resume from where you stopped",
+  "latestVersionCode": 15,
+  "versionName": "0.8.1",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.8.1/mrsensible-tv-15.apk",
+  "sizeBytes": 35940282,
+  "sha256": "89c50e4f2e0cb122ac3563e736ad3ded5edd05f6d41cc0a061c6afd3aa4201d9",
+  "notes": "Fix: all 5 avatars now visible in the picker (row was clipping the last two)",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781874789862
+  "publishedAt": 1781875904755
 }
