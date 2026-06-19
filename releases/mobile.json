@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 14,
-  "versionName": "0.8.0",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.8.0/mrsensible-mobile-14.apk",
-  "sizeBytes": 36274447,
-  "sha256": "4091e7cd3d2172d3bb687f6c430d6deb3fb6181e89875d902ceefc020bf5c616",
-  "notes": "Avatar selection, list reordering, Filipino Movies/Shows rows, DoodStream streams, anticipated hero banner, and fix: movies now resume from where you stopped",
+  "latestVersionCode": 15,
+  "versionName": "0.8.1",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.8.1/mrsensible-mobile-15.apk",
+  "sizeBytes": 36274895,
+  "sha256": "d814deb316148f1eb851fae8f73a2de1622c813d1005aabae92dde39f01a4f88",
+  "notes": "Fix: all 5 avatars now visible in the picker (row was clipping the last two)",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781874778105
+  "publishedAt": 1781875896616
 }
