@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 15,
-  "versionName": "0.8.1",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.8.1/mrsensible-mobile-15.apk",
-  "sizeBytes": 36274895,
-  "sha256": "d814deb316148f1eb851fae8f73a2de1622c813d1005aabae92dde39f01a4f88",
-  "notes": "Fix: all 5 avatars now visible in the picker (row was clipping the last two)",
+  "latestVersionCode": 16,
+  "versionName": "0.8.2",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.8.2/mrsensible-mobile-16.apk",
+  "sizeBytes": 36275392,
+  "sha256": "df5bb283ebdf1a4260acdab4356538f7a37bfd5ddc9ae035c10418ddef173f14",
+  "notes": "PinoyMoviesHub: sources under 10 minutes (trailers) are now skipped so the resolver tries the next mirror instead of playing a preview clip",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781875896616
+  "publishedAt": 1781876177555
 }
