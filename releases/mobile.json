@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 18,
-  "versionName": "0.8.4",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.8.4/mrsensible-mobile-18.apk",
-  "sizeBytes": 36276590,
-  "sha256": "a2b72b8a979c8a80fd705ad1a57cd0e5ee04e26f0daf9efceec58cb216da1170",
-  "notes": "Fix MixDrop trailer filter (duration fallback to raw HTML); suppress In Cinemas badge for titles already on streaming",
+  "latestVersionCode": 19,
+  "versionName": "0.8.5",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.8.5/mrsensible-mobile-19.apk",
+  "sizeBytes": 36289018,
+  "sha256": "f77565f7f6b9d471b85659d1f2b9f4f2cb2a9fb9a53e37811296bcdbb40cfe07",
+  "notes": "Replace avatar_1 and avatar_2 images",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781877279590
+  "publishedAt": 1781877732317
 }
