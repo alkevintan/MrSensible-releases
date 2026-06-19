@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 17,
-  "versionName": "0.8.3",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.8.3/mrsensible-tv-17.apk",
-  "sizeBytes": 35940992,
-  "sha256": "988c28fb8fb749429f36d136b8a86a09d3b0eef803d8a11d41a760f615053072",
-  "notes": "Hero banner is now New on Streaming: recently-released movies and shows on subscription services, interleaved. Trakt trending is still used for the rows below.",
+  "latestVersionCode": 18,
+  "versionName": "0.8.4",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.8.4/mrsensible-tv-18.apk",
+  "sizeBytes": 35941972,
+  "sha256": "139409ffb4871eaab0378a9ffa7f879f5d5ea58dc9c873557ebd3f5f616bf1da",
+  "notes": "Fix MixDrop trailer filter (duration fallback to raw HTML); suppress In Cinemas badge for titles already on streaming",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781876689445
+  "publishedAt": 1781877293723
 }
