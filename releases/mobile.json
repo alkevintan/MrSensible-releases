@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 19,
-  "versionName": "0.8.5",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.8.5/mrsensible-mobile-19.apk",
-  "sizeBytes": 36289018,
-  "sha256": "f77565f7f6b9d471b85659d1f2b9f4f2cb2a9fb9a53e37811296bcdbb40cfe07",
-  "notes": "Replace avatar_1 and avatar_2 images",
+  "latestVersionCode": 20,
+  "versionName": "0.8.6",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.8.6/mrsensible-mobile-20.apk",
+  "sizeBytes": 36289013,
+  "sha256": "220b8a8a1cb8f0c5d76729371f3664050472e1455f80e489ed6aca5243aec56c",
+  "notes": "Fix: long-press OK to switch source now shows a D-pad-navigable menu instead of an unfocusable AlertDialog",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781877732317
+  "publishedAt": 1781887563383
 }
