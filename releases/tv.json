@@ -1,10 +1,10 @@
 {
   "latestVersionCode": 23,
   "versionName": "0.11.0",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.11.0/mrsensible-tv-23.apk",
-  "sizeBytes": 26748945,
-  "sha256": "07af6df93237ab95a2c3636dcdbc8f9c37cc25daa0979e94fa809c0faa174379",
-  "notes": "KissAsia resolver for Korean dramas; KissAsia fallback for Filipino titles",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/build-4/mrsensible-tv-23.apk",
+  "sizeBytes": 26760515,
+  "sha256": "fcc39234cbbc07160d878a09fe7d0b1532f2c5d914ff00c4b63420b1c20ae223",
+  "notes": "",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781953870640
+  "publishedAt": 1781999444482
 }

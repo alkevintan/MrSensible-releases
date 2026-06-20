@@ -1,10 +1,10 @@
 {
   "latestVersionCode": 27,
   "versionName": "0.12.1",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.12.1/mrsensible-mobile-27.apk",
-  "sizeBytes": 27041377,
-  "sha256": "290718770777c45908c86fe053fdcc996480f7c2e9012353880087ea606f918a",
-  "notes": "Fix black-on-black UI (nav composition fix), fix downloads not starting (DB provider + HLS MIME type), add episode download button in show detail",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/build-4/mrsensible-mobile-27.apk",
+  "sizeBytes": 27052560,
+  "sha256": "5e9dfc25528c526f9972e1c157e08c7844303af0661273d775526c0994eada1a",
+  "notes": "",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781962889801
+  "publishedAt": 1781999444482
 }
