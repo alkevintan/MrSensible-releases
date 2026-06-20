@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 24,
-  "versionName": "0.11.1",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.11.1/mrsensible-mobile-24.apk",
-  "sizeBytes": 27002896,
-  "sha256": "f37b839a033ab9e8ac5d2b1948281501d5283732a2aa77f31c029bc69c3f5330",
-  "notes": "Tablet support: NavigationRail, adaptive grids, larger cards and hero banner",
+  "latestVersionCode": 25,
+  "versionName": "0.11.2",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.11.2/mrsensible-mobile-25.apk",
+  "sizeBytes": 27014134,
+  "sha256": "ecc43a6a47c90f8b3e3b4faea366c692bc1bc184e771d8800d52a805ba0fbb45",
+  "notes": "Tablet nav rail: My List, History, and Random tabs on sw600dp+ displays",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781959071281
+  "publishedAt": 1781959764271
 }
