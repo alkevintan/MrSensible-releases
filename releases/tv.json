@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 21,
-  "versionName": "0.9.0",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.9.0/mrsensible-tv-21.apk",
-  "sizeBytes": 35956996,
-  "sha256": "cbe0cd05c56f6dfca74edcd85d30c847e1504b230da37734e0cdf2a12e17ed6d",
-  "notes": "Avatar sets: DiceBear API for all households + static avatar images for pioneer households",
+  "latestVersionCode": 22,
+  "versionName": "0.10.0",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.10.0/mrsensible-tv-22.apk",
+  "sizeBytes": 26742494,
+  "sha256": "3311785595f26e09a54239cd91c435168ec42b61e47a0a56a5676fcc8977eece",
+  "notes": "Dedicated source button in options menu + auto-skip streams under 10 min",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781915376383
+  "publishedAt": 1781916905555
 }
