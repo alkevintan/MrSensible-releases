@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 20,
-  "versionName": "0.8.6",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.8.6/mrsensible-mobile-20.apk",
-  "sizeBytes": 36289013,
-  "sha256": "220b8a8a1cb8f0c5d76729371f3664050472e1455f80e489ed6aca5243aec56c",
-  "notes": "Fix: long-press OK to switch source now shows a D-pad-navigable menu instead of an unfocusable AlertDialog",
+  "latestVersionCode": 21,
+  "versionName": "0.9.0",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.9.0/mrsensible-mobile-21.apk",
+  "sizeBytes": 36292249,
+  "sha256": "7000879a885c001e60ca79e39450bdc870383a2d6ffe14db2ea600e18d91a87f",
+  "notes": "Avatar sets: DiceBear API for all households + static avatar images for pioneer households",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781887563383
+  "publishedAt": 1781915324260
 }
