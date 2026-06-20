@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 20,
-  "versionName": "0.8.6",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.8.6/mrsensible-tv-20.apk",
-  "sizeBytes": 35955134,
-  "sha256": "2d453657b5ad1743122383572ab381f25692515aa4b36645815b4744266c83a8",
-  "notes": "Fix: long-press OK to switch source now shows a D-pad-navigable menu instead of an unfocusable AlertDialog",
+  "latestVersionCode": 21,
+  "versionName": "0.9.0",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.9.0/mrsensible-tv-21.apk",
+  "sizeBytes": 35956996,
+  "sha256": "cbe0cd05c56f6dfca74edcd85d30c847e1504b230da37734e0cdf2a12e17ed6d",
+  "notes": "Avatar sets: DiceBear API for all households + static avatar images for pioneer households",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781887532301
+  "publishedAt": 1781915376383
 }
