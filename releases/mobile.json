@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 23,
-  "versionName": "0.11.0",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.11.0/mrsensible-mobile-23.apk",
-  "sizeBytes": 27002907,
-  "sha256": "a0f7ec3445440ad5a9b37d90c35e60308cc51ea1896271b39eca7c555d4e8017",
-  "notes": "Tablet support (NavigationRail, adaptive grids, larger cards), KissAsia Korean dramas, audio language switcher",
+  "latestVersionCode": 24,
+  "versionName": "0.11.1",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.11.1/mrsensible-mobile-24.apk",
+  "sizeBytes": 27002896,
+  "sha256": "f37b839a033ab9e8ac5d2b1948281501d5283732a2aa77f31c029bc69c3f5330",
+  "notes": "Tablet support: NavigationRail, adaptive grids, larger cards and hero banner",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781958762782
+  "publishedAt": 1781959071281
 }
