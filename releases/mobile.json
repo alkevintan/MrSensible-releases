@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 26,
-  "versionName": "0.12.0",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.12.0/mrsensible-mobile-26.apk",
-  "sizeBytes": 27038572,
-  "sha256": "e477d2036937fe1f14dc4929c546e79985779f486c9df18abdbe8030a7a4bcd4",
-  "notes": "Offline downloads (queue movies for offline playback), tablet nav rail polished (avatar pinned to bottom, Downloads + Random tabs), Random shows landing page with reroll, My List removed from Home on tablet",
+  "latestVersionCode": 27,
+  "versionName": "0.12.1",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.12.1/mrsensible-mobile-27.apk",
+  "sizeBytes": 27041377,
+  "sha256": "290718770777c45908c86fe053fdcc996480f7c2e9012353880087ea606f918a",
+  "notes": "Fix black-on-black UI (nav composition fix), fix downloads not starting (DB provider + HLS MIME type), add episode download button in show detail",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781961765950
+  "publishedAt": 1781962889801
 }
