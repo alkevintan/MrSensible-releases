@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 21,
-  "versionName": "0.9.0",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.9.0/mrsensible-mobile-21.apk",
-  "sizeBytes": 36292249,
-  "sha256": "7000879a885c001e60ca79e39450bdc870383a2d6ffe14db2ea600e18d91a87f",
-  "notes": "Avatar sets: DiceBear API for all households + static avatar images for pioneer households",
+  "latestVersionCode": 22,
+  "versionName": "0.10.0",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.10.0/mrsensible-mobile-22.apk",
+  "sizeBytes": 26866265,
+  "sha256": "784b3453c36a84443138200152e5b7e87a87deb657238c9280a2d3343e980ffd",
+  "notes": "Source switcher in HUD bar + auto-skip streams under 10 min",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781915324260
+  "publishedAt": 1781918877889
 }
