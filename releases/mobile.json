@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 22,
-  "versionName": "0.10.0",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.10.0/mrsensible-mobile-22.apk",
-  "sizeBytes": 26866265,
-  "sha256": "784b3453c36a84443138200152e5b7e87a87deb657238c9280a2d3343e980ffd",
-  "notes": "Source switcher in HUD bar + auto-skip streams under 10 min",
+  "latestVersionCode": 23,
+  "versionName": "0.11.0",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.11.0/mrsensible-mobile-23.apk",
+  "sizeBytes": 26875304,
+  "sha256": "4d9a65b8ec137e54336fcb00fbe39f62ae2dc7cca03fe451773f35294b646c9c",
+  "notes": "KissAsia resolver for Korean dramas; KissAsia fallback for Filipino titles",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781918877889
+  "publishedAt": 1781953870640
 }
