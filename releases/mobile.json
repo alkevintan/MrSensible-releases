@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 25,
-  "versionName": "0.11.2",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.11.2/mrsensible-mobile-25.apk",
-  "sizeBytes": 27014134,
-  "sha256": "ecc43a6a47c90f8b3e3b4faea366c692bc1bc184e771d8800d52a805ba0fbb45",
-  "notes": "Tablet nav rail: My List, History, and Random tabs on sw600dp+ displays",
+  "latestVersionCode": 26,
+  "versionName": "0.12.0",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/v0.12.0/mrsensible-mobile-26.apk",
+  "sizeBytes": 27038572,
+  "sha256": "e477d2036937fe1f14dc4929c546e79985779f486c9df18abdbe8030a7a4bcd4",
+  "notes": "Offline downloads (queue movies for offline playback), tablet nav rail polished (avatar pinned to bottom, Downloads + Random tabs), Random shows landing page with reroll, My List removed from Home on tablet",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1781959764271
+  "publishedAt": 1781961765950
 }
