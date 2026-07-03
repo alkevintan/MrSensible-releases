@@ -197,8 +197,8 @@
       ],
       "title": "Coco Martin's Sigabo",
       "firstRun": true,
-      "trimStartSeconds": 0,
-      "trimEndSeconds": 0
+      "trimStartSeconds": 7,
+      "trimEndSeconds": 23
     },
     {
       "id": "blood-vs-duty",
