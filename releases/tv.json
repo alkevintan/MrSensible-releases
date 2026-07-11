@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 1016,
-  "versionName": "0.14.1",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/build-16/mrsensible-tv-1016.apk",
-  "sizeBytes": 27838271,
-  "sha256": "9b8908dbf7049e13237422d8f0a66513ab5545b104f48a7f5a302ce81420856a",
+  "latestVersionCode": 1017,
+  "versionName": "0.15.0",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/build-17/mrsensible-tv-1017.apk",
+  "sizeBytes": 27835428,
+  "sha256": "9c5744eca3cef7e085417faeabaea7603784d851a603e2d0b6892ecb2451d005",
   "notes": "",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1783741217129
+  "publishedAt": 1783754998985
 }
