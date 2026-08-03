@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 1025,
-  "versionName": "0.20.0",
-  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/build-25/mrsensible-mobile-1025.apk",
-  "sizeBytes": 28139430,
-  "sha256": "f3dfa634ccf90cf34da2538b2a90b21aea91b07e8524d364dece80e348a52def",
+  "latestVersionCode": 1026,
+  "versionName": "0.21.0",
+  "apkUrl": "https://github.com/alkevintan/MrSensible-releases/releases/download/build-26/mrsensible-mobile-1026.apk",
+  "sizeBytes": 28151753,
+  "sha256": "c2d097747fbc787cb807aad6fe965239ca0cb2c3844c69b39a8dbc1ecc61795d",
   "notes": "",
   "minSupportedVersionCode": 0,
-  "publishedAt": 1785725709082
+  "publishedAt": 1785742183309
 }
