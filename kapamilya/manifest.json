@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-17T18:18:11+00:00",
+  "generatedAt": "2026-08-18T18:17:13+00:00",
   "shows": [
     {
       "id": "sigabo",
@@ -818,15 +818,15 @@
           "airDate": "2026-08-14",
           "parts": [
             {
-              "id": "G-opcX7Hqr4",
+              "id": "1IysLMMx6mk",
               "sec": 555
             },
             {
-              "id": "sSov31fVGFc",
+              "id": "qe3BPyjU4r8",
               "sec": 869
             },
             {
-              "id": "QnsNhGFi8I0",
+              "id": "A-7UkHtH3p0",
               "sec": 308
             }
           ],
@@ -839,16 +839,37 @@
           "airDate": "2026-08-17",
           "parts": [
             {
-              "id": "C51i2hl8SiU",
+              "id": "HASS-7HKRlw",
               "sec": 685
             },
             {
-              "id": "9ifOqAJUslk",
+              "id": "nKk0khU8jnE",
               "sec": 493
             },
             {
-              "id": "tX8DKCaQbLI",
+              "id": "kidDnGsI9fY",
               "sec": 500
+            }
+          ],
+          "partCount": 3,
+          "complete": true
+        },
+        {
+          "key": "e42",
+          "episode": 42,
+          "airDate": "2026-08-18",
+          "parts": [
+            {
+              "id": "NjSWzjHOl6o",
+              "sec": 613
+            },
+            {
+              "id": "ClvtP7G9yfk",
+              "sec": 973
+            },
+            {
+              "id": "s6U_TcftHnQ",
+              "sec": 145
             }
           ],
           "partCount": 3,
@@ -2998,19 +3019,19 @@
           "airDate": "2026-08-14",
           "parts": [
             {
-              "id": "M79VypTQTIc",
+              "id": "UjdbHo5EliM",
               "sec": 380
             },
             {
-              "id": "5ArJBr50kYw",
+              "id": "sZ4EothJGoA",
               "sec": 305
             },
             {
-              "id": "oO9itQOWb2E",
+              "id": "JAbzKtyFHoU",
               "sec": 313
             },
             {
-              "id": "BkScMfXPdsk",
+              "id": "_SRuALg6Okw",
               "sec": 218
             }
           ],
@@ -3023,20 +3044,45 @@
           "airDate": "2026-08-17",
           "parts": [
             {
-              "id": "PBWksR68VL0",
+              "id": "IWvnz8wm1L0",
               "sec": 547
             },
             {
-              "id": "qEmkvAmgOAM",
+              "id": "YHW1sue2v3w",
               "sec": 406
             },
             {
-              "id": "o6-p9BoXjK4",
+              "id": "o2a-ps6jVWo",
               "sec": 220
             },
             {
-              "id": "YNXlaQnZfG8",
+              "id": "LW_VNs3Hg_M",
               "sec": 98
+            }
+          ],
+          "partCount": 4,
+          "complete": true
+        },
+        {
+          "key": "e91",
+          "episode": 91,
+          "airDate": "2026-08-18",
+          "parts": [
+            {
+              "id": "NKyED-CqIpA",
+              "sec": 526
+            },
+            {
+              "id": "SVCja5zPnLQ",
+              "sec": 322
+            },
+            {
+              "id": "pRm5QUhUTf0",
+              "sec": 228
+            },
+            {
+              "id": "YOqKgS9vRWU",
+              "sec": 124
             }
           ],
           "partCount": 4,
@@ -4822,23 +4868,23 @@
           "airDate": "2026-08-14",
           "parts": [
             {
-              "id": "M9iuoObnz7w",
+              "id": "UdAONK7lylU",
               "sec": 952
             },
             {
-              "id": "-CbV3Dvyf_8",
+              "id": "V34ToQsMnS4",
               "sec": 2627
             },
             {
-              "id": "R52kmA9do6A",
+              "id": "9jTPZIxlqgY",
               "sec": 1146
             },
             {
-              "id": "nfA-GSBKVd4",
+              "id": "ffI8u0cZ_3o",
               "sec": 1299
             },
             {
-              "id": "kbz3W02wCd4",
+              "id": "Bz-_3Jhw0QA",
               "sec": 643
             }
           ],
@@ -4880,24 +4926,53 @@
           "airDate": "2026-08-17",
           "parts": [
             {
-              "id": "hUsotuqu5iw",
-              "sec": 885
+              "id": "nQhPhAXPkCQ",
+              "sec": 884
             },
             {
-              "id": "tiMBMPxeOnE",
+              "id": "_ezJdryD9p8",
               "sec": 1548
             },
             {
-              "id": "_R8gjKpPqtw",
+              "id": "RxboYYo1jyk",
               "sec": 1112
             },
             {
-              "id": "CZZtmXJ3yn0",
+              "id": "UPY9o7-2FJs",
               "sec": 1715
             },
             {
-              "id": "J6gabP0hEag",
+              "id": "9gimu72-HcM",
               "sec": 889
+            }
+          ],
+          "partCount": 5,
+          "complete": true
+        },
+        {
+          "key": "2026-08-18",
+          "episode": null,
+          "airDate": "2026-08-18",
+          "parts": [
+            {
+              "id": "5JvL9tsh8as",
+              "sec": 823
+            },
+            {
+              "id": "LBh4m_8hcjE",
+              "sec": 2709
+            },
+            {
+              "id": "thsE2l_7W_g",
+              "sec": 690
+            },
+            {
+              "id": "X89blnhElYc",
+              "sec": 1576
+            },
+            {
+              "id": "WptWNWutM3Y",
+              "sec": 613
             }
           ],
           "partCount": 5,
@@ -7717,19 +7792,19 @@
           "airDate": "2026-08-14",
           "parts": [
             {
-              "id": "fYNhHXFF-Cg",
+              "id": "A481rFwSfyc",
               "sec": 554
             },
             {
-              "id": "ZZfXPDd9MzU",
+              "id": "9YgLjjnw21w",
               "sec": 339
             },
             {
-              "id": "UWS9733KXAc",
+              "id": "V6TGqoOvLPk",
               "sec": 315
             },
             {
-              "id": "7r0_4Y40VZw",
+              "id": "lRls3nL1qsI",
               "sec": 211
             }
           ],
@@ -7742,20 +7817,45 @@
           "airDate": "2026-08-17",
           "parts": [
             {
-              "id": "YFECX0uo9uA",
+              "id": "jmuUpFgXIPU",
               "sec": 635
             },
             {
-              "id": "yZBEHMhCics",
+              "id": "u7tcXDL8DlY",
               "sec": 393
             },
             {
-              "id": "FtYhH8u-f0A",
+              "id": "gYyV8cSnd_I",
               "sec": 273
             },
             {
-              "id": "U-_yiYfSPeQ",
+              "id": "_KBak9HwK9k",
               "sec": 134
+            }
+          ],
+          "partCount": 4,
+          "complete": true
+        },
+        {
+          "key": "e87",
+          "episode": 87,
+          "airDate": "2026-08-18",
+          "parts": [
+            {
+              "id": "ZhNMYH2Mqps",
+              "sec": 734
+            },
+            {
+              "id": "m5bzqcbav2Q",
+              "sec": 371
+            },
+            {
+              "id": "EqUFocljG0A",
+              "sec": 280
+            },
+            {
+              "id": "o1eXXEEMzbI",
+              "sec": 75
             }
           ],
           "partCount": 4,
@@ -9001,19 +9101,19 @@
           "airDate": "2026-08-14",
           "parts": [
             {
-              "id": "QJydMOiVP9s",
+              "id": "VIZa7elVT3A",
               "sec": 543
             },
             {
-              "id": "gsz5T2RNoPE",
+              "id": "n1QULZPRjms",
               "sec": 347
             },
             {
-              "id": "l1Z-EaHd9u4",
+              "id": "pBMnZYbJkA0",
               "sec": 304
             },
             {
-              "id": "_a51TcSqx0I",
+              "id": "1v9ql9N1sjc",
               "sec": 123
             }
           ],
@@ -9026,20 +9126,45 @@
           "airDate": "2026-08-17",
           "parts": [
             {
-              "id": "hngh77STDa4",
+              "id": "Q-FcOnxJcx4",
               "sec": 862
             },
             {
-              "id": "o3xDQPxrtiQ",
+              "id": "kwJic2tbUEI",
               "sec": 353
             },
             {
-              "id": "hD0KUgcfp8w",
+              "id": "CkWNu0Y6T0I",
               "sec": 449
             },
             {
-              "id": "pA8adm9N2ME",
+              "id": "DrN1gQlv1gY",
               "sec": 605
+            }
+          ],
+          "partCount": 4,
+          "complete": true
+        },
+        {
+          "key": "e111",
+          "episode": 111,
+          "airDate": "2026-08-18",
+          "parts": [
+            {
+              "id": "O3wj-aSGUV0",
+              "sec": 718
+            },
+            {
+              "id": "784yOeGEX0E",
+              "sec": 637
+            },
+            {
+              "id": "pjGTn8MANNk",
+              "sec": 544
+            },
+            {
+              "id": "g2o3RFWQ_dg",
+              "sec": 404
             }
           ],
           "partCount": 4,
@@ -10285,19 +10410,19 @@
           "airDate": "2026-08-14",
           "parts": [
             {
-              "id": "dplnb7Y6vlc",
+              "id": "ezDyy79r1DE",
               "sec": 654
             },
             {
-              "id": "f9_rxAx4loM",
+              "id": "VrdFJq6mRds",
               "sec": 743
             },
             {
-              "id": "Ojs0vhg3ec8",
+              "id": "oHICsge99dQ",
               "sec": 379
             },
             {
-              "id": "NdXnVvyrFkQ",
+              "id": "W0unpBhR6mI",
               "sec": 210
             }
           ],
@@ -10310,20 +10435,45 @@
           "airDate": "2026-08-17",
           "parts": [
             {
-              "id": "WHUhqPU6JBU",
+              "id": "OWuTENxlhcc",
               "sec": 751
             },
             {
-              "id": "YfzqNu-zxtI",
+              "id": "cskeCQL1Fhs",
               "sec": 635
             },
             {
-              "id": "JTJZ1UpFiMI",
+              "id": "yt5vczYkqoY",
               "sec": 453
             },
             {
-              "id": "GC1Zkm5w1Tk",
+              "id": "ufYhO1byDZg",
               "sec": 87
+            }
+          ],
+          "partCount": 4,
+          "complete": true
+        },
+        {
+          "key": "e76",
+          "episode": 76,
+          "airDate": "2026-08-18",
+          "parts": [
+            {
+              "id": "kZ0jZTlMJ1A",
+              "sec": 928
+            },
+            {
+              "id": "JT7TDXnOUl8",
+              "sec": 639
+            },
+            {
+              "id": "vm__T3HDUYk",
+              "sec": 326
+            },
+            {
+              "id": "NIBSnTlGZoA",
+              "sec": 98
             }
           ],
           "partCount": 4,
@@ -11844,19 +11994,19 @@
           "airDate": "2026-08-14",
           "parts": [
             {
-              "id": "GdmZGvAbRqY",
+              "id": "Kw9ZAHr_iX4",
               "sec": 355
             },
             {
-              "id": "YrA_rT1E7zg",
+              "id": "ZkkE6oglc-o",
               "sec": 359
             },
             {
-              "id": "StvbesU6BsA",
+              "id": "V7dS0TYRmqc",
               "sec": 345
             },
             {
-              "id": "pL3CONvlJgo",
+              "id": "841lwQub9h8",
               "sec": 550
             }
           ],
@@ -11894,20 +12044,45 @@
           "airDate": "2026-08-17",
           "parts": [
             {
-              "id": "LTYRsHNSVLI",
+              "id": "yRiY_aDgpAE",
               "sec": 534
             },
             {
-              "id": "ET0IN1lneXo",
+              "id": "Sf0jYXluxfs",
               "sec": 455
             },
             {
-              "id": "rDOscHF_bV4",
+              "id": "r5JwlX2SwIw",
               "sec": 402
             },
             {
-              "id": "dyn5Wvp1KEs",
+              "id": "ljLdhnJ8MRE",
               "sec": 216
+            }
+          ],
+          "partCount": 4,
+          "complete": true
+        },
+        {
+          "key": "e86",
+          "episode": 86,
+          "airDate": "2026-08-18",
+          "parts": [
+            {
+              "id": "8zfSadSasaw",
+              "sec": 455
+            },
+            {
+              "id": "OJjSVewR1og",
+              "sec": 382
+            },
+            {
+              "id": "sazeQXwhJ3o",
+              "sec": 366
+            },
+            {
+              "id": "IdAAcbpzwQo",
+              "sec": 472
             }
           ],
           "partCount": 4,
@@ -15949,19 +16124,19 @@
           "airDate": "2026-08-14",
           "parts": [
             {
-              "id": "q5XMvKq9slQ",
+              "id": "kbCi049NUY4",
               "sec": 523
             },
             {
-              "id": "E3TJDSTmcYo",
+              "id": "Q-G364UE2wc",
               "sec": 373
             },
             {
-              "id": "mnFwDhgMpFc",
+              "id": "FKJahAka2ug",
               "sec": 328
             },
             {
-              "id": "Ja3eK4kg1bo",
+              "id": "gDrIc_XJ-yI",
               "sec": 256
             }
           ],
@@ -15974,19 +16149,19 @@
           "airDate": "2026-08-14",
           "parts": [
             {
-              "id": "qfwY-Ge3IvY",
+              "id": "fxbepDd5J1I",
               "sec": 532
             },
             {
-              "id": "qLgk-pLPGI0",
+              "id": "5_RQqRPiSpc",
               "sec": 473
             },
             {
-              "id": "-R0RtELVBw8",
+              "id": "YBZk-u3n83A",
               "sec": 308
             },
             {
-              "id": "CX0E6qd0fjE",
+              "id": "9hJO74scnog",
               "sec": 155
             }
           ],
@@ -15999,19 +16174,19 @@
           "airDate": "2026-08-17",
           "parts": [
             {
-              "id": "gJYzlZQi_AY",
+              "id": "MYxXEMtGLcE",
               "sec": 420
             },
             {
-              "id": "Uh-oUtE8JLE",
+              "id": "8RfdTR3-Abc",
               "sec": 297
             },
             {
-              "id": "QlPt2e5kHQM",
+              "id": "ViHtZgfzlDE",
               "sec": 308
             },
             {
-              "id": "HQj8Uv6ELiI",
+              "id": "VfXsjsKPuAw",
               "sec": 348
             }
           ],
@@ -16024,20 +16199,70 @@
           "airDate": "2026-08-17",
           "parts": [
             {
-              "id": "0ASzKlD_El4",
+              "id": "xPdgEcFdWOk",
               "sec": 502
             },
             {
-              "id": "LGfQGdX1YcY",
+              "id": "eoP0_c-ezo4",
               "sec": 313
             },
             {
-              "id": "aW82EZ7x5BA",
+              "id": "dxvCKyvQqQw",
               "sec": 298
             },
             {
-              "id": "yMQ9FT3ANLw",
+              "id": "LWAbtgt7sEo",
               "sec": 385
+            }
+          ],
+          "partCount": 4,
+          "complete": true
+        },
+        {
+          "key": "e73",
+          "episode": 73,
+          "airDate": "2026-08-18",
+          "parts": [
+            {
+              "id": "fb0x2isYang",
+              "sec": 538
+            },
+            {
+              "id": "bsHh0ZbtCQA",
+              "sec": 353
+            },
+            {
+              "id": "WMfiSX3QauU",
+              "sec": 249
+            },
+            {
+              "id": "3ABY_kvAae8",
+              "sec": 209
+            }
+          ],
+          "partCount": 4,
+          "complete": true
+        },
+        {
+          "key": "e74",
+          "episode": 74,
+          "airDate": "2026-08-18",
+          "parts": [
+            {
+              "id": "XhzhQ1Jh6-I",
+              "sec": 529
+            },
+            {
+              "id": "rSBpz-TLo9I",
+              "sec": 321
+            },
+            {
+              "id": "Uee9etrLdrA",
+              "sec": 287
+            },
+            {
+              "id": "LX_SeUWR2YU",
+              "sec": 160
             }
           ],
           "partCount": 4,
@@ -18726,23 +18951,23 @@
           "airDate": "2026-08-14",
           "parts": [
             {
-              "id": "G3pRFlk0R1s",
+              "id": "JZTgZWPrbTw",
               "sec": 460
             },
             {
-              "id": "LXQrWW2rsk4",
+              "id": "1vZ8sKNUhT0",
               "sec": 408
             },
             {
-              "id": "PVUUzgbXqkc",
+              "id": "eymJKK70_uU",
               "sec": 283
             },
             {
-              "id": "_upS6c9lISs",
+              "id": "ymk9tZ5DNMc",
               "sec": 252
             },
             {
-              "id": "_xq3wE5m3WI",
+              "id": "vab03PfS9Nw",
               "sec": 431
             }
           ],
@@ -18755,23 +18980,23 @@
           "airDate": "2026-08-17",
           "parts": [
             {
-              "id": "4H62DnDKvxM",
+              "id": "D8HjBGSXa-Y",
               "sec": 595
             },
             {
-              "id": "OVt78gPmxWU",
+              "id": "IAkcStrdg-g",
               "sec": 344
             },
             {
-              "id": "gOUCGLrapTc",
+              "id": "rfl6b8GgRqI",
               "sec": 330
             },
             {
-              "id": "bhPr-S8kmNE",
+              "id": "aqyp7EpQUoo",
               "sec": 202
             },
             {
-              "id": "GA5s_CsCpm4",
+              "id": "wVmbkP_hSa4",
               "sec": 156
             }
           ],
@@ -18784,24 +19009,82 @@
           "airDate": "2026-08-17",
           "parts": [
             {
-              "id": "V2ItdBoYeCQ",
+              "id": "GC4DB9RrpBo",
               "sec": 524
             },
             {
-              "id": "e_pfufISynI",
+              "id": "TbsgGXbH2uQ",
               "sec": 493
             },
             {
-              "id": "0n-o5k67jt4",
+              "id": "fExzN60hRnY",
               "sec": 226
             },
             {
-              "id": "4Euae2SBlHc",
+              "id": "zdLto0Gr324",
               "sec": 341
             },
             {
-              "id": "BbzGBR_AQ1k",
+              "id": "jPlR0FM3qeg",
               "sec": 259
+            }
+          ],
+          "partCount": 5,
+          "complete": true
+        },
+        {
+          "key": "e131",
+          "episode": 131,
+          "airDate": "2026-08-18",
+          "parts": [
+            {
+              "id": "iAZ7KhXVFy0",
+              "sec": 545
+            },
+            {
+              "id": "uMNJECRN3mE",
+              "sec": 337
+            },
+            {
+              "id": "sLjEhfiG-eg",
+              "sec": 497
+            },
+            {
+              "id": "ImYUhKNP6oI",
+              "sec": 367
+            },
+            {
+              "id": "WllxJei2kqA",
+              "sec": 131
+            }
+          ],
+          "partCount": 5,
+          "complete": true
+        },
+        {
+          "key": "e132",
+          "episode": 132,
+          "airDate": "2026-08-18",
+          "parts": [
+            {
+              "id": "1aEM70aQLvs",
+              "sec": 553
+            },
+            {
+              "id": "lxKrE5aydEs",
+              "sec": 328
+            },
+            {
+              "id": "Q9J_b2ovYoQ",
+              "sec": 280
+            },
+            {
+              "id": "XJN3deVD07A",
+              "sec": 419
+            },
+            {
+              "id": "226UVyqidRs",
+              "sec": 213
             }
           ],
           "partCount": 5,
